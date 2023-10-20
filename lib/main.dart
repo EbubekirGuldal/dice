@@ -56,4 +56,4 @@ class _DicePageState extends State<DicePage> {
     );
   }
 }
-// Test 2 Bysangur 
+// Test 2 Baysangur inschAllah ça fonctionne
